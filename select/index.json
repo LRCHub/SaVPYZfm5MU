@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Under the Gun",
+  "base_artist": "Motörhead",
+  "createdAt": "2026-02-19T11:14:20.586866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Under The Gun",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/01_Under_The_Gun_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Under The Gun (For Jeffrey Lee Pierce)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/02_Under_The_Gun_(For_Jeffrey_Lee_Pierce)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Under the Gun (for Jeffery Lee Pierce)",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/03_Under_the_Gun_(for_Jeffery_Lee_Pierce)_Blondie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Under the Gun (Metropolis Mix)",
+      "artist": "The Sisters of Mercy",
+      "has_synced": false,
+      "path": "select/04_Under_the_Gun_(Metropolis_Mix)_The_Sisters_of_Mercy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/05_Under_the_Gun_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/06_Under_the_Gun_Dokken.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/07_Under_the_Gun_Blondie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/08_Under_the_Gun_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Axel Rudi Pell",
+      "has_synced": true,
+      "path": "select/09_Under_the_Gun_Axel_Rudi_Pell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/10_Under_the_Gun_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Asia",
+      "has_synced": false,
+      "path": "select/11_Under_the_Gun_Asia.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Deep Purple",
+      "has_synced": false,
+      "path": "select/12_Under_the_Gun_Deep_Purple.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/13_Under_the_Gun_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Under the Gun",
+      "artist": "Electric Guest",
+      "has_synced": true,
+      "path": "select/14_Under_the_Gun_Electric_Guest.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Under The Gun",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/pl_01_Under_The_Gun_Motörhead.txt"
+    }
+  ]
+}
