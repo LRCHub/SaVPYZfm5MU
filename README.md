@@ -1,0 +1,44 @@
+# Motörhead – Under the Gun
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.06] We should have got it on, you know it's true
+[00:28.95] So many times I thought I spoke to you
+[00:33.84] But I guess it wasn't true, some dreams ain't real
+[00:39.20] Wishful thinking, the way I feel
+[00:44.36] But you sure looked good this time, I'm sure it ain't no crime
+[00:49.71] A little fantasy, involving you and me
+[01:08.71] 
+[00:55.47] Come on over, lay it down
+[00:59.53] It's about time, shoot me a line, lay it down
+[01:04.89] All of our lives, running away from the law
+[01:10.01] We all live under the sun
+[01:12.64] But we don't have to live under the gun
+[01:32.14] 
+[01:25.72] We still might meet again, you know we could
+[01:31.51] I got so many ways to make you feel so good
+[01:36.76] I guess it's up to you to make it work
+[01:41.86] I hope it's true, don't leave me in the dirt
+[01:47.05] You sure look good to me, I'm sure you must agree
+[01:52.91] Just one more chance, the horizontal dance
+[02:13.91] 
+[01:58.07] Come on over, lay it down
+[02:02.32] It's about time, shoot me a line, lay it down
+[02:07.59] All of our lives, running away from the law
+[02:12.73] We all live under the sun
+[02:15.23] But we don't have to live under the gun
+[02:34.73] 
+[02:49.37] And so we're warm again, perhaps a little wet
+[02:54.99] I know a few good ways, make sure you don't forget
+[03:00.10] I guess it's real right now, let me show you how
+[03:05.41] Some dreams come true, got me next to you
+[03:10.52] Can't wait to see you naked just for me
+[03:15.82] Move against me girl, take me around the world
+[03:38.82] 
+[03:21.50] Come on over, lay it down
+[03:25.79] It's about time, shoot me a line, lay it down
+[03:31.06] All of our lives, running away from the law
+[03:36.16] We all live under the sun
+[03:38.64] But we don't have to live under the gun
+```
